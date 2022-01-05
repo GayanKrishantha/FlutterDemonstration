@@ -1,0 +1,132 @@
+{
+  "schedules": [
+    {
+      "date": "2021-01-05 19:00:00",
+      "title": "Breakfast",
+      "icon": 1,
+      "medicines": [
+        {
+          "name": "Paracetamol",
+          "dose": "2 stuck, 40 mg",
+          "isTaken": true
+        },
+        {
+          "name": "Acetaminophen",
+          "dose": "2 stuck",
+          "isTaken": true
+        }
+      ]
+    },
+    {
+      "date": "2021-01-05 19:00:00",
+      "title": "Lunch",
+      "icon": 3,
+      "medicines": [
+        {
+          "name": "Adderall",
+          "dose": "1/2 stuck, 1000 mg",
+          "isTaken": true
+        },
+        {
+          "name": "Amitriptyline",
+          "dose": "1/2 stuck, 1000 mg",
+          "isTaken": true
+        }
+      ]
+    },
+    {
+      "date": "2021-01-05 19:00:00",
+      "title": "Dinner",
+      "icon": 5,
+      "medicines": [
+        {
+          "name": "Amlodipine",
+          "dose": "1/2 stuck, 1000 mg",
+          "isTaken": true
+        },
+        {
+          "name": "Paracetamol",
+          "dose": "2 stuck, 500 mg",
+          "isTaken": true
+        }
+      ]
+    },
+    {
+      "date": "2021-01-07 19:00:00",
+      "title": "Breakfast",
+      "icon": 4,
+      "medicines": [
+        {
+          "name": "Amoxicillin",
+          "dose": "1 stuck",
+          "isTaken": true
+        },
+        {
+          "name": "Ativan",
+          "dose": "2 stuck, 200 mg",
+          "isTaken": true
+        }
+      ]
+    },
+    {
+      "date": "2021-01-07 19:00:00",
+      "title": "Lunch",
+      "icon": 5,
+      "medicines": [
+        {
+          "name": "Paracetamol",
+          "dose": "2 stuck, 40 mg",
+          "isTaken": true
+        }
+      ]
+    },
+    {
+      "date": "2021-01-07 19:00:00",
+      "title": "Dinner",
+      "icon": 3,
+      "medicines": [
+        {
+          "name": "Paracetamol",
+          "dose": "1/2 stuck, 1000 mg",
+          "isTaken": true
+        }
+      ]
+    },
+    {
+      "date": "2021-01-08 19:00:00",
+      "title": "Breakfast",
+      "icon": 3,
+      "medicines": [
+        {
+          "name": "Paracetamol",
+          "dose": "2 stuck, 40 mg",
+          "isTaken": true
+        }
+      ]
+    },
+    {
+      "date": "2021-01-08 19:00:00",
+      "title": "Lunch",
+      "icon": 4,
+      "medicines": [
+        {
+          "name": "Amlodipine",
+          "dose": "1/2 stuck, 1000 mg",
+          "isTaken": true
+        }
+      ]
+    },
+    {
+      "date": "2021-01-10 19:00:00",
+      "title": "Tea time",
+      "icon": 5,
+      "medicines": [
+        {
+          "name": "Azithromycin",
+          "dose": "1 stuck,",
+          "isTaken": true
+        }
+      ]
+    }
+  ]
+}
