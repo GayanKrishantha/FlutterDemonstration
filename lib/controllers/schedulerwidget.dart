@@ -105,9 +105,7 @@ class _SchedulerWidgetState extends State<SchedulerWidget> {
   Widget _setCellLeadingImageContent() {
     return Container(
       padding: const EdgeInsets.only(
-          left: Dimensions.pX10,
-          top: Dimensions.pX10,
-          bottom: Dimensions.pX10),
+          left: Dimensions.pX10, top: Dimensions.pX10, bottom: Dimensions.pX10),
       child: Image.asset(IconTypes.displayText(widget.item.scheduler.icon),
           fit: BoxFit.fill),
     );

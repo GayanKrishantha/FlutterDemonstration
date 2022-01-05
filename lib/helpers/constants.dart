@@ -21,7 +21,7 @@ class AppTheme {
       fontFamily: fontFamily,
       color: Colors.black);
   final TextStyle titleBlack = TextStyle(
-      fontWeight: FontWeight.w100,
+      fontWeight: FontWeight.w300,
       fontSize: 18,
       fontFamily: fontFamily,
       color: Colors.black);
